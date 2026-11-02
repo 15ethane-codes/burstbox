@@ -1,3 +1,9 @@
+---
+name: Task
+about: A scoped piece of work with a done line
+labels: []
+---
+
 ## Goal
 (One or two sentences. What exists after this issue that doesn't exist now?)
 
